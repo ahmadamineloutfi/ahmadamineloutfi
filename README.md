@@ -1,5 +1,5 @@
 - I’m Ahmad Amine Loutfi, a PhD candidate in industrial economics and Technology management at NTNU Business school, Norwegina Univeristy of Science and Technology. 
-- My main PhD project is Financial Technologies (FinTech) and I am focusing specifically on the use of Alternative data and Machine learning in the Predictive Analytics of Financial Services.
+- My main PhD project is Financial Technologies (FinTech) and I am focusing specifically on the use of Alternative data and Machine learning in Financial Forecasting.
 - You can reach me at: ah.am.loutfi@gmail.com
 
 <!---
