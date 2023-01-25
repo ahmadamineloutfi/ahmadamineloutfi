@@ -1,6 +1,6 @@
-- I’m Ahmad Amine Loutfi, a PhD Research Fellow in industrial economics and Technology management at the Business school of the Norwegian Univeristy of Science & Technology. 
-- My PhD research project is about "Data based approeaches in the digital age of Finance using machine Learning and alternative data".
-- You can reach out to me at: ah.am.loutfi@gmail.com or https://www.linkedin.com/in/aloutfi/
+- Ahmad Amine Loutfi, completed a PhD (ABD) in industrial economics and technology management at the Business school of the Norwegian Univeristy of Science & Technology (NTNU). He was also a visiting researcher at the Asian Institute of Digital Finance at the National University of Singapore. He has prior teaching experiences at university level, and has successfully supervised several master’ theses. He has also acted as a reviewer for various journals including Energy Economics and the International Journal of Physical Distribution & Logistics Management. His research interests include artificial intelligence and Blockchain, and his two domains of expertise are finance and supply chain management. 
+
+- You can reach out to him at: ah.am.loutfi@gmail.com or https://www.linkedin.com/in/aloutfi/
 
 <!---
 ahmadamineloutfi/ahmadamineloutfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
