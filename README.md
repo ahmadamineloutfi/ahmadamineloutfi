@@ -1,4 +1,4 @@
-- Ahmad Amine Loutfi pursued a PhD-study programme in “industrial economics and technology management” at the Business School of the Norwegian University of Science & Technology. His PhD research work focused on applied machine learning for financial poblem-soving. He was also a visiting researcher at the Asian Institute of Digital Finance at the National University of Singapore. He has prior teaching experiences at university level, and has successfully supervised several master’ theses. He has also acted as a reviewer for various journals including Energy Economics and the International Journal of Physical Distribution & Logistics Management. His research interests include artificial intelligence and Blockchain, and his two domains of expertise are finance and supply chain management. 
+- Ahmad Amine Loutfi focuses on applied machine learning in finance.
 
 - You can reach out to him at: a.a.loutfi@outlook.com or https://www.linkedin.com/in/aloutfi/
 
