@@ -1,1 +1,1 @@
-- A.A.Loutfi's projects focus mainly on applied machine learning in empirical finance.
+- A.A.Loutfi's projects focus mainly on applied machine learning.
